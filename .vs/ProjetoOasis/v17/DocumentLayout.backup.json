@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\controllers\\previsaoimpactoambientalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\controllers\\previsaoimpactoambientalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\controllers\\clientescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\controllers\\clientescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|d:\\fiap\\2 ano\\global solution 2\\dotnet - global\\projetooasis\\projetooasis\\projetooasis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26C984D3-A573-4703-9436-6E99ED6CE779}|ProjetoOasis\\ProjetoOasis.csproj|solutionrelative:projetooasis\\projetooasis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrevisaoImpactoAmbientalController.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Controllers\\PrevisaoImpactoAmbientalController.cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Controllers\\PrevisaoImpactoAmbientalController.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Controllers\\PrevisaoImpactoAmbientalController.cs",
+              "RelativeToolTip": "ProjetoOasis\\Controllers\\PrevisaoImpactoAmbientalController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:40:38.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController .cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Controllers\\ClientesController .cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Controllers\\ClientesController .cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Controllers\\ClientesController .cs",
+              "RelativeToolTip": "ProjetoOasis\\Controllers\\ClientesController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:48:14.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProjetoOasis\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:13:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Model\\Cliente.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Model\\Cliente.cs",
+              "RelativeToolTip": "ProjetoOasis\\Model\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:40:07.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Program.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Program.cs",
+              "RelativeToolTip": "ProjetoOasis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:20:47.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Model\\Produto.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Model\\Produto.cs",
+              "RelativeToolTip": "ProjetoOasis\\Model\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:38:46.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjetoOasis\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:44:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProjetoOasis\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:14:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProjetoOasis\\appsettings.Development.json",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\appsettings.Development.json",
+              "RelativeToolTip": "ProjetoOasis\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T21:17:01.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoOasis\\appsettings.json",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\appsettings.json",
+              "RelativeToolTip": "ProjetoOasis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T21:17:07.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "ProjetoOasis\\Services\\AuthServices.cs",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\Services\\AuthServices.cs",
+              "RelativeToolTip": "ProjetoOasis\\Services\\AuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:15:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjetoOasis",
+              "DocumentMoniker": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\ProjetoOasis.csproj",
+              "RelativeDocumentMoniker": "ProjetoOasis\\ProjetoOasis.csproj",
+              "ToolTip": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\ProjetoOasis.csproj",
+              "RelativeToolTip": "ProjetoOasis\\ProjetoOasis.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T18:38:21.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

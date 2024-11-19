@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "6LZCGeqeFXhp7DiUmQsFXXysy1unlKWXqzAwJiBe61Q=",
+  "Source": "ProjetoOasis",
+  "BasePath": "_content/ProjetoOasis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoOasis\\wwwroot",
+      "Source": "ProjetoOasis",
+      "ContentRoot": "D:\\FIAP\\2 ANO\\Global Solution 2\\Dotnet - Global\\ProjetoOasis\\ProjetoOasis\\wwwroot\\",
+      "BasePath": "_content/ProjetoOasis",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
