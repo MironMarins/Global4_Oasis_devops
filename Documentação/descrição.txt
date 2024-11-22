@@ -1,0 +1,9 @@
+O Projeto Oasis é um aplicativo que visa ligar produtores de gás hidrogenio e oxigenio
+para clientes de segmento empresarial e pessoal que buscam implementar a substtituição
+de combustiveis fosseis e reduzir sua pegada de carbono.
+
+Nós do projeto Oasis sabemos que o maior empecilho para o aproveitamento do potencial energetico
+do deserto do Sahara é o transporte dessa energia, assim transformando essa energia em uma forma de
+facil transporte, no caso barris e cilidros de hidrogenio e utilizando nosso aplicativo para conectar
+clientes e produtos, nosso projeto criou um meio perfeito para utilizar uma das maiores fontes de energia
+do planeta. 

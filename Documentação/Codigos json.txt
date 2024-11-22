@@ -1,0 +1,59 @@
+CLIENTE
+
+	GET: https://oasiscloudapp.azurewebsites.net/api/clientes
+
+	POST:https://oasiscloudapp.azurewebsites.net/api/clientes
+	
+		ex: {
+    			"id": 1,
+    			"nome": "jagunso",
+    			"cpfCnpj": "32545",
+    			"endereco": "rua ricardo jafe, 247",
+    			"telefone": "34464365",
+    			"email": "jagun@hotmail.com",
+    			"segmentoCliente": "pessoal"
+    			}
+	
+	PUT: https://oasiscloudapp.azurewebsites.net/api/clientes/1
+		ex: {
+    			"id": 1,
+    			"nome": "jagunso",
+    			"cpfCnpj": "32545",
+    			"endereco": "rua ricardo jafe, 257",
+    			"telefone": "34464365",
+    			"email": "jagun@hotmail.com",
+    			"segmentoCliente": "pessoal"
+  			}
+
+	DELETE:https://oasiscloudapp.azurewebsites.net/api/clientes/1
+
+PRODUTO
+
+	GET:https://oasiscloudapp.azurewebsites.net/api/produtos
+
+	POST:https://oasiscloudapp.azurewebsites.net/api/produtos
+		ex:{
+    			"id": 1,
+    			"nome": "silindro puro",
+    			"preco": "150.00",
+    			"categoria": "hidrogenio liquido",
+    			"quantidade_vendida": "1",
+    			"litros": "1100",
+    			"impacto_ambiental": "0",
+    			"origem":"sahara"
+  			}
+
+	PUT:https://oasiscloudapp.azurewebsites.net/api/produtos/1
+		ex:
+			{
+				"id": 1,
+    				"nome": "butijao de hidrogenio puro",
+    				"preco": "180.00",
+    				"categoria": "hidrogenio liquido",
+    				"quantidade_vendida": "1",
+    				"litros": "1100",
+    				"impacto_ambiental": "0",
+    				"origem":"sahara"
+				}
+
+	DELETE:https://oasiscloudapp.azurewebsites.net/api/produtos/1
